@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ersndubey&label=Profile%20views&color=0e75b6&style=flat" alt="ersndubey" /> </p>
 
-<p align="left"> <img src="https://img.shields.io/twitter/follow/ersddubey?logo=twitter&style=for-the-badge" alt="ersddubey" /> </p>
+<p align="left"> <img src="https://img.shields.io/twitter/follow/ersndubey?logo=twitter&style=for-the-badge" alt="ersndubey" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ersndubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ersddubey" height="30" width="40" /></a>
+<a href="https://twitter.com/ersndubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ErSndubey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sachchidananddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachchidananddubey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20426144/ersndubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20426144/ersndubey" height="30" width="40" /></a>
 <a href="https://medium.com/@ersndubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ersndubey" height="30" width="40" /></a>
