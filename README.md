@@ -1,18 +1,18 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sachchidanand+dubey+Welcoming+you+%F0%9F%91%8B;Currently+I+am+Pursuing+Bachlors+in+Computer+Science;To+know+more+visit+https%3A%2F%2Fchandraprakash.codes%2F)
 
-![20220210_181515_0000](https://user-images.githubusercontent.com/93640141/154883570-4886fb9e-8a31-4eae-bd99-5f4b70d9c44b.png)
+![20220210_181515_0000](https://github.com/ErSndubey/ErSndubey/blob/main/Image/images.jpeg)
 
 ## About Me
 
-I am a frontend developer with a focus on creating beautiful, intuitive, and responsive web applications. My tech stack includes Next.js, React, TailwindCSS, and TypeScript, and I am always learning and expanding my skills. Currently, I am exploring Rust and its potential in web development.
+I am a frontend developer with a focus on creating beautiful, intuitive, and responsive web applications. My tech stack includes React, TailwindCSS, and TypeScript, and I am always learning and expanding my skills. Currently, I am exploring Rust and its potential in web development.
 
 ## Projects
 
 You can find a collection of my projects on my website: [ErSndubey.github.io](http://ersndubey.github.io/). These projects showcase my skills in frontend development and range from simple landing pages to more complex web applications.
 
-## AX Studios
 
-I am also the founder of AX Studios, a digital solution agency that provides a wide range of services, including website development, app development, and design. You can find more information about AX Studios on our website: [axstudios.tech](http://axstudios.tech/).
+
+
 
 ## Contact Me
 
