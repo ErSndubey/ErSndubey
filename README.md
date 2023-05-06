@@ -1,46 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sachchidanand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sachchidanand+dubey+Welcoming+you+%F0%9F%91%8B;Currently+I+am+Pursuing+Bachlors+in+Computer+Science;To+know+more+visit+https%3A%2F%2Fchandraprakash.codes%2F)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ersndubey&label=Profile%20views&color=0e75b6&style=flat" alt="ersndubey" /> </p>
+![20220210_181515_0000](https://user-images.githubusercontent.com/93640141/154883570-4886fb9e-8a31-4eae-bd99-5f4b70d9c44b.png)
 
-<p align="left"> <img src="https://img.shields.io/twitter/follow/ersndubey?logo=twitter&style=for-the-badge" alt="ersndubey" /> </p>
+## About Me
 
-- 🌱 I’m currently learning **React Native**
+I am a frontend developer with a focus on creating beautiful, intuitive, and responsive web applications. My tech stack includes Next.js, React, TailwindCSS, and TypeScript, and I am always learning and expanding my skills. Currently, I am exploring Rust and its potential in web development.
 
-- 👨‍💻 All of my projects are available at [https://ersndubey.github.io/](https://ersndubey.github.io/)
+## Projects
 
-- 📝 I regularly write articles on [https://medium.com/@ersndubey](https://medium.com/@ersndubey)
+You can find a collection of my projects on my website: [ErSndubey.github.io](http://ersndubey.github.io/). These projects showcase my skills in frontend development and range from simple landing pages to more complex web applications.
 
-- 💬 Ask me about **Java Script, React, NodeJs, Express, MongoDB**
+## AX Studios
 
-- 📫 How to reach me **ersndubey@gmail.com**
+I am also the founder of AX Studios, a digital solution agency that provides a wide range of services, including website development, app development, and design. You can find more information about AX Studios on our website: [axstudios.tech](http://axstudios.tech/).
 
-- 📄 Know about my experiences [Download resume from here]
-- (https://ashrayaprofile.netlify.app/)
+## Contact Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ersndubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ErSndubey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sachchidananddubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachchidananddubey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20426144/ersndubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20426144/ersndubey" height="30" width="40" /></a>
-<a href="https://medium.com/@ersndubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ersndubey" height="30" width="40" /></a>
-</p>
+If you would like to get in touch with me, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sachchidananddubey/) or [Twitter](https://twitter.com/ErSndubey). You can also send me an email at [ersndubeygmail.com](mailto:ersndubey@gmail.com).
 
+## Fun Fact
 
+Everyone thinks I am not smart enough, but I prove them wrong every day with my hard work and dedication to learning and improving my skills.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ersndubey&layout=compact&theme=transparent&show_icons=true&count_private=true&include_all_commits=true" alt="Sachchidanand" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersndubey&theme=transparent&include_all_commits=true" />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a></p>
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ersndubey&layout=compact&theme=flat&column=4&row=1)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ersndubey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ersndubey" /></a></p><br><br>
-
-
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChandraprakashDarji&theme=react&langs_count=5&layout=compact" />
+   
