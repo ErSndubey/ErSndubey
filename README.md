@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sachchidanand+dubey+Welcoming+you+%F0%9F%91%8B;Currently+I+am+Pursuing+Bachlors+in+Computer+Science;To+know+more+visit+https%3A%2F%2Fchandraprakash.codes%2F)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sachchidanand+dubey+Welcoming+you+%F0%9F%91%8B;Currently+I+am+Pursuing+Bachlors+in+CS;To+know+more+visit+https%3A%2F%2Fhttps://ersndubey.github.io%2F)
 
 ![20220210_181515_0000](https://github.com/ErSndubey/ErSndubey/blob/main/Image/images.jpeg)
 
