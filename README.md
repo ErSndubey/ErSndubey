@@ -22,5 +22,5 @@ If you would like to get in touch with me, please feel free to connect with me o
 
 Everyone thinks I am not smart enough, but I prove them wrong every day with my hard work and dedication to learning and improving my skills.
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChandraprakashDarji&theme=react&langs_count=5&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ErSndubey&theme=react&langs_count=5&layout=compact" />
    
