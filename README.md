@@ -8,7 +8,7 @@ I am a frontend developer with a focus on creating beautiful, intuitive, and res
 
 ## Projects
 
-You can find a collection of my projects on my website: [ErSndubey.github.io](http://ersndubey.github.io/) 📧. These projects showcase my skills in frontend development and range from simple landing pages to more complex web applications.
+You can find a collection of my projects on my website: [ErSndubey.github.io](http://ersndubey.github.io/) . These projects showcase my skills in frontend development and range from simple landing pages to more complex web applications.
 
 
 
@@ -16,7 +16,7 @@ You can find a collection of my projects on my website: [ErSndubey.github.io](ht
 
 ## Contact Me
 
-If you would like to get in touch with me, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sachchidananddubey/) or [Twitter](https://twitter.com/ErSndubey). You can also send me an email at [ersndubeygmail.com](mailto:ersndubey@gmail.com).
+If you would like to get in touch with me, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sachchidananddubey/) or [Twitter](https://twitter.com/ErSndubey). You can also send me an email at [ersndubeygmail.com](mailto:ersndubey@gmail.com).📧
 
 ## Fun Fact
 
