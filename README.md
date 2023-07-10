@@ -4,11 +4,11 @@
 
 ## About Me
 
-I am a frontend developer with a focus on creating beautiful, intuitive, and responsive web applications. My tech stack includes React, TailwindCSS, and TypeScript, and I am always learning and expanding my skills. Currently, I am exploring Rust and its potential in web development.
+I am a frontend developer with a focus on creating beautiful, intuitive, and responsive web applications. My tech stack includes React ⚛️, TailwindCSS 🎨, and Bootstrap 🧪, and I am always learning and expanding my skills. Currently, I am exploring React Native 📱 and its potential in app development.
 
 ## Projects
 
-You can find a collection of my projects on my website: [ErSndubey.github.io](http://ersndubey.github.io/). These projects showcase my skills in frontend development and range from simple landing pages to more complex web applications.
+You can find a collection of my projects on my website: [ErSndubey.github.io](http://ersndubey.github.io/) 📧. These projects showcase my skills in frontend development and range from simple landing pages to more complex web applications.
 
 
 
@@ -20,7 +20,7 @@ If you would like to get in touch with me, please feel free to connect with me o
 
 ## Fun Fact
 
-Everyone thinks I am not smart enough, but I prove them wrong every day with my hard work and dedication to learning and improving my skills.
+Many people believe that luck determines our fate, but I have a different perspective. I firmly believe that our actions, choices, and hard work play a significant role in shaping our destinies.✨
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ErSndubey&theme=react&langs_count=5&layout=compact" />
    
