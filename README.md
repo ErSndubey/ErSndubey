@@ -1,6 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8c01&lines=Sachchidanand+dubey+Welcoming+you+%F0%9F%91%8B;Currently+I+am+Pursuing+Bachlors+in+CS;To+know+more+visit+https%3A%2F%2Fhttps://ersndubey.github.io%2F)
 
-![20220210_181515_0000](https://github.com/ErSndubey/ErSndubey/blob/main/linkedIn_bg.png)
+![20220210_181515_0000](https://media.licdn.com/dms/image/D4D16AQHYp2Ul-HXxvg/profile-displaybackgroundimage-shrink_350_1400/0/1688113261071?e=1694649600&v=beta&t=dkKArlSymf-2XccSl9OY5vmNC8Qn9YnEBUw7plYE2_w)
 
 ## About Me
 
