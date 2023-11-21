@@ -2,7 +2,7 @@
 
 ![20220210_181515_0000](https://media.licdn.com/dms/image/D4D16AQHYp2Ul-HXxvg/profile-displaybackgroundimage-shrink_350_1400/0/1688113263506?e=1706140800&v=beta&t=RlALQUG7-xxV1czBCLtFhXg0FJZgENOFgmw6yxzsMDk)
 
-# Who am I ?
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Skills](#skills)
@@ -33,7 +33,7 @@ Here are some of my notable projects:
 
 ~ This endeavour demonstrates technical prowess and effective API integration, allowing users to explore a diverse range of dining options independently within my personalized project, echoing the familiarity of the Swiggy experience.
 
-### Project 2: [MyCart: E-Commerce web app](https://github.com/ErSndubey/MyCart/tree/main/mycart)
+### Project 2: [MyCart: E-Commerce web app](https://mycart-ersndubey.vercel.app/)
 -Crafted with React and Tailwind CSS, our innovative e-commerce web app is a game-changer, granting users access to 12 million products. Seamlessly search through a comprehensive product catalogue, tailored to your preferences.
 
 -Navigate easily through 500+ Indian cities, precisely locating your desired products. Harness the power of modern technologies such as HTML, CSS, JavaScript, ReactJS, Redux, and Tailwind CSS to enjoy a user-friendly shopping experience.
